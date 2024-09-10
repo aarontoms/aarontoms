@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="400" alt="fun gif">
+
 <!--
 **aarontoms/aarontoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
