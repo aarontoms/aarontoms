@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 📫 How to reach me:
+- [LinkedIn](https://linkedin.com/in/aaron-tom-viji-961b52245)
+
 <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="400" alt="fun gif">
 
 <!--
