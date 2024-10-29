@@ -7,11 +7,11 @@
 <div align="left">
     <h2>Languages</h2>
       <div align="left">
-        <img src="https://skillicons.dev/icons?i=javascript,python,kotlin,java,html,css,c,typescript,golang&perline=6"/>
+        <img src="https://skillicons.dev/icons?i=javascript,python,kotlin,java,html,css,c,dart&perline=6"/>
       </div>
   <h2>Frameworks & Tools</h2>
       <div align="left">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,npm,react,reactnative,mongodb,fastapi,flask,tailwindcss,bootstrap,postman,materialui,vercel,bash,selenium,mysql,androidstudio&perline=10"/>
+          <img src="https://skillicons.dev/icons?i=nodejs,express,npm,react,reactnative,mongodb,fastapi,flask,tailwindcss,postman,materialui,vercel,selenium,mysql,androidstudio&perline=10"/>
       </div>
     <br>
 </div>
