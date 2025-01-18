@@ -11,7 +11,7 @@
       </div>
   <h2>Frameworks & Tools</h2>
       <div align="left">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,npm,react,reactnative,mongodb,fastapi,flask,tailwindcss,postman,materialui,vercel,selenium,mysql,androidstudio&perline=10"/>
+          <img src="https://skillicons.dev/icons?i=nodejs,express,npm,react,reactnative,mongodb,fastapi,flask,tailwindcss,postman,materialui,vercel,selenium,mysql,androidstudio,redis&perline=10"/>
       </div>
     <br>
 </div>
