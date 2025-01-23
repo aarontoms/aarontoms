@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=36&duration=2000&pause=200&width=600&lines=Hello+World%2C+This+is+Aaron;Welcome+to+my+GitHub" alt="Typing SVG">
 </b>
 </h1>
-![](https://komarev.com/ghpvc/?username=aarontoms)
 
 <h1 align="center"><b>Languages & Frameworks and tool that I use</b></h1>
 <div align="left">
