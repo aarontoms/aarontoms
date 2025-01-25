@@ -17,11 +17,14 @@
 </div>
 
 
+
 ### 📫 Reach me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/aaron-tom-viji-961b52245)
 <br>
 
 <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=aarontoms&theme=dark&include_all_commits=true&layout=compact&langs_count=8" alt="stats">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aarontoms&theme=dark&hide_border=true)<br/>
 
 <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="400" alt="fun gif">
 
