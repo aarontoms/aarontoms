@@ -26,6 +26,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aarontoms&theme=dark&hide_border=true)<br/>
 
+<img alt="Profile Hits offline 💀" src="https://moe-counter.glitch.me/get/@aarontoms">
+
 <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="400" alt="fun gif">
 
 <!--
