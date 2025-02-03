@@ -28,6 +28,8 @@
 
 <img alt="Profile Hits offline 💀" src="https://moe-counter.glitch.me/get/@aarontoms">
 
+[![wakatime](https://wakatime.com/badge/user/5cc0193d-b4b9-425d-9214-1f4069610a50.svg)](https://wakatime.com/@5cc0193d-b4b9-425d-9214-1f4069610a50)
+
 <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="400" alt="fun gif">
 
 <!--
