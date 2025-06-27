@@ -19,12 +19,12 @@
 
 
 ### 📫 Reach me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/aaron-tom-viji-961b52245)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aarontom29/)
 <br>
 
 <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=aarontoms&theme=dark&include_all_commits=true&layout=compact&langs_count=8" alt="stats">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aarontoms&theme=dark&hide_border=true)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aarontoms)](https://git.io/streak-stats)
 
 <img alt="Profile Hits offline 💀" src="https://moe-counter.glitch.me/get/@aarontoms">
 
