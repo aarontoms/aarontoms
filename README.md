@@ -7,7 +7,7 @@
 <div align="left">
     <h2>Languages</h2>
       <div align="left">
-        <img src="https://skillicons.dev/icons?i=javascript,python,kotlin,typescript,java,html,css,c,dart&perline=6"/>
+        <img src="https://skillicons.dev/icons?i=javascript,python,kotlin,typescript,java,html,css,c,dart,php&perline=6"/>
       </div>
   <h2>Frameworks & Tools</h2>
       <div align="left">
