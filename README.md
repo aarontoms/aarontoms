@@ -22,10 +22,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aarontom29/)
 <br>
 
-<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=aarontoms&theme=dark&include_all_commits=true&layout=compact&langs_count=8" alt="stats">
+<div align="center">
+  <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=aarontoms&theme=dark&include_all_commits=true&layout=compact&langs_count=8" alt="stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=aarontoms&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aarontoms&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+Profile Viewers
 <!--<img alt="Profile Hits offline 💀" src="https://moe-counter.glitch.me/get/@aarontoms">-->
 ![:Profile Viewers](https://count.getloli.com/@Profile%20viewers?theme=booru-helltaker&padding=7&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto)
 
