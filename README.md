@@ -32,7 +32,7 @@
 
 Profile Viewers
 <!--<img alt="Profile Hits offline 💀" src="https://moe-counter.glitch.me/get/@aarontoms">-->
-![:Profile Viewers](https://count.getloli.com/@Profile%20viewers?theme=booru-helltaker&padding=7&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto)
+![:aarontoms](https://count.getloli.com/@aarontoms?theme=booru-helltaker&padding=7&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto)
 
 
 [![wakatime](https://wakatime.com/badge/user/5cc0193d-b4b9-425d-9214-1f4069610a50.svg)](https://wakatime.com/@5cc0193d-b4b9-425d-9214-1f4069610a50)
