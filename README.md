@@ -26,7 +26,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aarontoms&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<img alt="Profile Hits offline 💀" src="https://moe-counter.glitch.me/get/@aarontoms">
+<!--<img alt="Profile Hits offline 💀" src="https://moe-counter.glitch.me/get/@aarontoms">-->
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9523avo4q665se8cx6jp7ia2yvc010vx2ci9ttipt6w&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 [![wakatime](https://wakatime.com/badge/user/5cc0193d-b4b9-425d-9214-1f4069610a50.svg)](https://wakatime.com/@5cc0193d-b4b9-425d-9214-1f4069610a50)
 
