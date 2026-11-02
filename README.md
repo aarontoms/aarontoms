@@ -27,7 +27,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aarontoms&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--<img alt="Profile Hits offline 💀" src="https://moe-counter.glitch.me/get/@aarontoms">-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarontoms&label=Profile%20views&color=0e75b6&style=flat" alt="aarontoms" /> </p>
+![:Profile Viewers](https://count.getloli.com/@Profile%20viewers?theme=booru-helltaker&padding=7&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto)
+
 
 [![wakatime](https://wakatime.com/badge/user/5cc0193d-b4b9-425d-9214-1f4069610a50.svg)](https://wakatime.com/@5cc0193d-b4b9-425d-9214-1f4069610a50)
 
